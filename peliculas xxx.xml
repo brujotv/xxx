@@ -406,15 +406,7 @@ Language: English </info>
 <info></info> 
 </item>
 
-<item>
-<title>[COLOR red]X[/COLOR]  </title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year></year>
-<info></info> 
-</item>
+
 
 <item>
 <title>[COLOR red]X[/COLOR]  </title>
